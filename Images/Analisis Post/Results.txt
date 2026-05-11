@@ -1,0 +1,164 @@
+
+
+Generando gráficos de diagnóstico (revisa la pestaña 'Plots')...
+Se generarán gráficos de traza e histogramas para TODOS los coeficientes.
+
+--- 1. Resumen Estadístico del Posterior (función nativa) ---
+
+Bayesian VAR model with p = 2 
+
+Model:
+
+y ~ d_growth_gdp.01 + d_infl.01 + d_cbrate.01 + d_private_credit_gdp.01 + d_ln_reer.01 + d_ln1p_value_traded_gdp.01 + d_ln1p_mcap_gdp.01 + d_growth_gdp.02 + d_infl.02 + d_cbrate.02 + d_private_credit_gdp.02 + d_ln_reer.02 + d_ln1p_value_traded_gdp.02 + d_ln1p_mcap_gdp.02 + const
+
+
+========================================================
+--- DIAGNÓSTICO PARA: África ---
+========================================================
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+100.0000 100.0000 148.2514 185.6492 198.7830 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: América Latina y el Caribe ---
+========================================================
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+136.4642 100.0000 160.4919 100.0000 321.1216 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Asia ---
+========================================================
+
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+235.0401 100.0000 100.0000 138.7637 299.2278 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Europa ---
+========================================================
+
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+100.0000 100.0000 149.0329 100.0000 278.8542 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: General  Todos los Países  ---
+========================================================
+
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+235.0401 100.0000 100.0000 138.7637 299.2278 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Norteamérica ---
+========================================================
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+100.0000 100.0000 145.3626 161.2365 232.4930 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Oceanía ---
+========================================================
+
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+237.9355 100.0000 100.0000 133.9159 232.0908 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Países de Altos Ingresos ---
+========================================================
+
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+235.0401 100.0000 100.0000 138.7637 299.2278 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Países de Bajos Ingresos ---
+========================================================
+
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+     var1      var2      var3      var4      var5 
+133.50441  73.51669 100.00000 246.93861 298.58043 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Países de la OCDE ---
+========================================================
+
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+237.9355 100.0000 100.0000 133.9159 232.0908 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Países de Medios Ingresos ---
+========================================================
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+136.4642 100.0000 160.4919 100.0000 321.1216 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
+
+
+========================================================
+--- DIAGNÓSTICO PARA: Países del G7 ---
+========================================================
+
+
+--- 2. Cálculo del Tamaño Efectivo de la Muestra (ESS) ---
+ESS para una muestra de los primeros 5 coeficientes:
+    var1     var2     var3     var4     var5 
+100.0000 100.0000 145.3626 161.2365 232.4930 
+
+QUÉ BUSCAR: El 'Effective Sample Size' (ESS) idealmente debe ser > 400.
